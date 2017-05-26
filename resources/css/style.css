@@ -1,0 +1,14 @@
+html {
+  font-family: Helvetica sans-serif;
+  font-size: 18px;
+  line-height: 1.4rem;
+}
+
+.flexbox {
+  width: 960px;
+  margin: 0 auto;
+}
+
+header {
+  background-color: cadetblue;
+}
